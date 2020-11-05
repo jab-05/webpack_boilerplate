@@ -1,0 +1,13 @@
+//variables
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: $primary-color;
+  color: yellow;
+  text-align: center;
+}
